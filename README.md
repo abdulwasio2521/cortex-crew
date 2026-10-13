@@ -1,9 +1,7 @@
 # cortex-crew
 <div align="center">
 
-# 🌿 AquaLeaf
-
-### **Scan the Leaf. Save the Water.** 💧
+# 🌿 Aqua Sense
 
 **A Smart Irrigation Decision-Support System for Farmers**
 
