@@ -37,11 +37,11 @@ By the time a crop visibly shows stress, damage may already have begun. Farmers 
 
 <div align="center">
 
-### 🌿 AquaLeaf turns a farmer’s address and one leaf photo into a clear irrigation decision.
+### 🌿 Aqua Sense turns a farmer’s address and one leaf photo into a clear irrigation decision.
 
 </div>
 
-AquaLeaf combines:
+Aqua Sense combines:
 
 - 📍 The farmer’s exact location
 - 🌦️ Local weather and rainfall forecast
@@ -56,7 +56,7 @@ Then it gives one clear recommendation:
 > ⏳ **“Wait two days—rain is expected.”**  
 > 🚫 **“Do not irrigate today—soil moisture is sufficient.”**
 
-AquaLeaf does not just show weather.  
+Aqua Sense does not just show weather.  
 It converts weather, crop, and leaf data into an **actionable irrigation decision**.
 
 ---
@@ -65,20 +65,20 @@ It converts weather, crop, and leaf data into an **actionable irrigation decisio
 
 | Layer | Technology |
 |---|---|
-| 🎨 Frontend | React / Next.js, Tailwind CSS |
-| 🧠 Backend | Node.js + Express **or** Python FastAPI |
-| 🗄️ Database | PostgreSQL / SQLite |
+| 🎨 Frontend | React , Tailwind CSS |
+| 🧠 Backend |  Python FastAPI |
+| 🗄️ Database | PostgreSQL  |
 | 🌦️ Weather | Open-Meteo API |
 | 📍 Location | GPS + Geocoding API |
 | 🍃 AI Vision | TensorFlow.js / ONNX Runtime / Lightweight CNN |
 | 🌐 Languages | English, Urdu, Sindhi |
-| 🚀 Deployment | Vercel / Netlify + Render / Railway |
+| 🚀 Deployment | Netlify |
 
 ---
 
 ## ✨ Key Features
 
-### 🕒 AquaLeaf Smart Window
+### 🕒 Aqua Sense Smart Window
 Finds the **best irrigation time** using the farmer’s exact location, crop stage, soil type, and weather forecast.
 
 ### 🌦️ SkyKhet
@@ -185,21 +185,19 @@ The LeafHydra demo may use the **PlantVillage** dataset or a similar open plant-
 
 ---
 
-## 👥 Team Members
+## 👥 Cortex Crew Memebers
 
 | Name | Role |
 |---|---|
-| 👑 *[Your Name]* | Team Lead / Research & Product |
-| 🎨 *[Member Name]* | Frontend & UI/UX |
-| ⚙️ *[Member Name]* | Backend & APIs |
-| 🤖 *[Member Name]* | AI / Leaf Scan |
-| 📊 *[Member Name]* | Data, Testing & Pitch |
+| 👑 *Abdul Wasio* | Team Lead / Research & Product |
+| 🎨 *Saad* | Frontend & UI/UX |
+| ⚙️ *Essa* | Backend & APIs |
 
 ---
 
 <div align="center">
 
-### 🌿 AquaLeaf
+### 🌿 Aqua Sense
 
 #### **Scan the Leaf. Save the Water.** 💧
 
