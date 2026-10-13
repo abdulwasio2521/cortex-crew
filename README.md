@@ -190,7 +190,7 @@ The LeafHydra demo may use the **PlantVillage** dataset or a similar open plant-
 | Name | Role |
 |---|---|
 | 👑 *Abdul Wasio* | Team Lead / Research & Product |
-| 🎨 *Saad* | Frontend & UI/UX |
+| 🎨 *Saad* | Developer |
 | ⚙️ *Essa* | Backend & APIs |
 
 ---
