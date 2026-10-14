@@ -1,7 +1,7 @@
 # cortex-crew
 <div align="center">
 
-# Live Link
+Live Link
 https://aquasense2k26.netlify.app/
 
 # 🌿 Aqua Sense
