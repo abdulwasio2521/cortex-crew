@@ -1,6 +1,9 @@
 # cortex-crew
 <div align="center">
 
+# Live Link
+https://aquasense2k26.netlify.app/
+
 # 🌿 Aqua Sense
 
 **A Smart Irrigation Decision-Support System for Farmers**
